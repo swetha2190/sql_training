@@ -10,6 +10,16 @@ namespace MyProject
     {
         static void Main(string[] args)
         {
+
+            StudentM obj = new StudentM();
+            obj.Grades();
+            Console.ReadLine();
+
+
+
+
+                      
         }
     }
 }
+                                                                                                     
